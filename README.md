@@ -6,7 +6,7 @@
 
 ## 前提
 - 你需要使用基本的Python和Django的知识
-- 如果你需要用到sqlite3的管理工具，可以到http://sourceforge.net/projects/sqliteman/ 下载
+- 如果你需要用到sqlite3的管理工具，可以到 http://sourceforge.net/projects/sqliteman/ 下载
 
 ## 任务
 - 从这个版本库创建一个分支
@@ -23,7 +23,7 @@
     "suspended": false
 ｝
 ```
-- 建立一个用户数据模型，包含用户的姓名和性别。预约数据模型中的user_id 字段来自用户数据模型的ID。
+- 建立一个用户数据模型，包含用户的姓名和性别。预约数据模型中的user_id 字段来自用户数据模型的id。
 
 
 #### 输入三个用户的信息
@@ -73,7 +73,7 @@
   3.	确认付款的预约的总金额是正确的。
 
 ## 完成之后
-  1.	请commit并push你的代码到你的代码库。
+  1.	请commit并push你的代码到你的版本库。
   2.	给我发送一个pull request，我们会审阅你的代码之后与你联系。
 
 
