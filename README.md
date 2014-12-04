@@ -9,7 +9,7 @@
 - 如果你需要用到sqlite3的管理工具，可以到http://sourceforge.net/projects/sqliteman/ 下载
 
 ## 任务
-- 从版本库https://github.com/haiyunhealth/repo.git 创建一个分支
+- 从这个版本库创建一个分支
 - 创建一个source目录
 - 在source目录中，用django建立一个web app实现一个预约的数据模型，JSON的数据结构如下：
 ```
